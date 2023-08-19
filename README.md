@@ -1,7 +1,6 @@
-### Olá!👋
-### Seja bem vindo ao meu repositório!
-Sou um estudante de desenvolvimento de sistemas apaixonado por tecnologia e em busca de aprender cada vez mais!
-Espero que algo aqui lhe seja útil 😄
+### Olá! Seja bem vindo ao meu repositório! 😁
+- Sou um estudante de desenvolvimento de sistemas apaixonado por tecnologia e em busca de aprender cada vez mais!
+- Espero que algo aqui lhe seja útil. 😊
 <!--
 **ArthurGuilherms/ArthurGuilherms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
